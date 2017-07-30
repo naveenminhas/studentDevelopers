@@ -1,1 +1,4 @@
-hello
+#include <stdio.h>
+void main(){
+printf("hello open sourc community");
+}
